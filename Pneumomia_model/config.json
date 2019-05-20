@@ -1,0 +1,172 @@
+{
+    "dashboard.features.scale": 1.0,
+    "border_bottom": 25,
+    "arrow_width": "2",
+    "dashboard.features.columns": 3,
+    "image_maxdim": 200,
+    "config_layers": {
+        "pool3": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "pool1": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "conv_3": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "conv_5": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "hidden2": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "output": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "pool2": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "input": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": [
+                150,
+                150
+            ],
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "hidden1": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "conv_2": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "conv_0": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "conv_1": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "flat_input": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        },
+        "conv_4": {
+            "colormap": null,
+            "max_draw_units": 20,
+            "vshape": null,
+            "feature": 0,
+            "visible": true,
+            "minmax": null,
+            "image_maxdim": null,
+            "image_pixels_per_unit": null
+        }
+    },
+    "precision": 2,
+    "dashboard.features.bank": "",
+    "dashboard.dataset": "Train",
+    "font_size": 12,
+    "hspace": 150,
+    "border_color": "black",
+    "border_top": 25,
+    "vspace": 30,
+    "show_errors": false,
+    "image_pixels_per_unit": 50,
+    "svg_rotate": false,
+    "svg_scale": null,
+    "show_targets": false,
+    "arrow_color": "black",
+    "activation": "linear",
+    "border_width": "2",
+    "pixels_per_unit": 1,
+    "svg_max_width": 800,
+    "font_family": "monospace",
+    "svg_preferred_size": 400
+}
